@@ -15,7 +15,7 @@ function setup() {
   }
   buttonArr = [
   {x:1.65,y:2.7,image:twitterLogo,offset:1000,link:'https://twitter.com/rorscratch'},
-  {x:2.5,y:2.3,image:henLogo,offset:5300,link:'https://hicetnunc.art/rorscratch'},
+  {x:2.5,y:2.3,image:henLogo,offset:5300,link:'https://teia.art/rorscratch'},
   {x:1.7,y:1.5,image:verLogo,offset:3610,link:'https://versum.xyz/user/tz1aWjNP6Gf4d3zsaA6QwShyLw2t6sgcdZ2B'},
   {x:2.5,y:1.3,image:fxLogo,offset:3610,link:'https://www.fxhash.xyz/u/Rorscratch'}
 ]
